@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.helloworld.StartLearnning</class>
+    <name>smack</name>
+    <description>First Openfire Custom Plugin.</description>
+    <author>admin</author>
+    <version>1.0.0</version>
+    <date>12/12/2016</date>
+    <minServerVersion>4.0.3</minServerVersion>
+    
+    <adminconsole>
+    </adminconsole>
+
+</plugin>
